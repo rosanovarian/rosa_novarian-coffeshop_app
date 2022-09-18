@@ -1,0 +1,177 @@
+<mxfile host="65bd71144e">
+    <diagram id="UldNZN2Yp7fVBG7tMe4o" name="Page-1">
+        <mxGraphModel dx="564" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;font color=&quot;#000000&quot;&gt;Start&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="345" y="30" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="390" y="350" as="sourcePoint"/>
+                        <mxPoint x="390" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="390" y="650" as="targetPoint"/>
+                        <mxPoint x="389.5" y="600" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="" style="edgeStyle=none;html=1;startArrow=none;" parent="1" target="36" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="393" y="990" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="390" y="1180" as="sourcePoint"/>
+                        <mxPoint x="390" y="1210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="390" y="1300" as="targetPoint"/>
+                        <mxPoint x="390" y="1270" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="390" y="1390" as="targetPoint"/>
+                        <mxPoint x="390" y="1350" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="&lt;font color=&quot;#000000&quot;&gt;End&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="1390" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;" parent="1" source="17" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="395" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="&lt;font color=&quot;#000000&quot;&gt;Coffee Shop Open?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="130" width="130" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="332.5" y="230" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="140" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="26" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;font color=&quot;#000000&quot;&gt;menu tersedia?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="332.5" y="390" width="115" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="392.5" y="510" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="410" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="390" y="1100" as="sourcePoint"/>
+                        <mxPoint x="390" y="1120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="&lt;font color=&quot;#000000&quot;&gt;ada driver ojek online?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="332.5" y="1010" width="115" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="1025" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="sbj66wwDpG2oRsyYTNk6-48" style="edgeStyle=none;html=1;entryX=0;entryY=0.712;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="17" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="260" y="175"/>
+                            <mxPoint x="260" y="615"/>
+                            <mxPoint x="260" y="1013"/>
+                            <mxPoint x="260" y="1243"/>
+                            <mxPoint x="260" y="1433"/>
+                        </Array>
+                        <mxPoint x="210" y="180" as="sourcePoint"/>
+                        <mxPoint x="192.29999999999995" y="1442.74" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sbj66wwDpG2oRsyYTNk6-51" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="26" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="490" y="435"/>
+                            <mxPoint x="490" y="345"/>
+                            <mxPoint x="490" y="355"/>
+                            <mxPoint x="490" y="320"/>
+                        </Array>
+                        <mxPoint x="542.5" y="450" as="sourcePoint"/>
+                        <mxPoint x="440" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sbj66wwDpG2oRsyYTNk6-54" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="36" target="YWVJAao3WSQf30nae3eR-51" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="452.5" y="1024.5" as="sourcePoint"/>
+                        <mxPoint x="520" y="1025" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sbj66wwDpG2oRsyYTNk6-56" style="edgeStyle=none;html=1;exitX=0.4;exitY=-0.04;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="462.5" y="970" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="632.5" y="970"/>
+                        </Array>
+                        <mxPoint x="632.5" y="1038" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-46" value="&lt;font color=&quot;#000000&quot;&gt;user melihat variasi menu&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="335" y="300" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="edgeStyle=none;html=1;fontColor=#000000;" edge="1" parent="1" source="YWVJAao3WSQf30nae3eR-49" target="YWVJAao3WSQf30nae3eR-60">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-49" value="&lt;font color=&quot;#000000&quot;&gt;user melakukan checkout keranjang belanja&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="335" y="650" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-51" value="&lt;font color=&quot;#000000&quot;&gt;menunggu driver ojek online tersedia&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="1025" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-52" value="&lt;font color=&quot;#000000&quot;&gt;Coffe Shop sedang menyiapkan pesanan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="335" y="1120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-53" value="&lt;font color=&quot;#000000&quot;&gt;Coffe Shop mengirim pesanan melalui driver&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="335" y="1210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-54" value="&lt;font color=&quot;#000000&quot;&gt;pesanan telah diterima oleh user&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="1300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-55" value="&lt;font color=&quot;#000000&quot;&gt;user memasukkan minuman yang diorder ke cart / keranjang belanja&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22user%20melihat%20menu%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BabsoluteArcSize%3D1%3BarcSize%3D14%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%22150%22%20width%3D%22100%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="285" y="540" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="edgeStyle=none;html=1;fontColor=#000000;" edge="1" parent="1" source="YWVJAao3WSQf30nae3eR-60" target="YWVJAao3WSQf30nae3eR-63">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-60" value="&lt;font color=&quot;#000000&quot;&gt;user memasukkan alamat pengiriman&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="327.5" y="770" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-50" value="&lt;font color=&quot;#000000&quot;&gt;Coffe Shop mengkonfirmasi pesanan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="322.5" y="950" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-63" value="&lt;font color=&quot;#000000&quot;&gt;user melakukan pembayaran&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="315" y="880" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-64" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="395" y="1090" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWVJAao3WSQf30nae3eR-65" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="391.5" y="950" as="targetPoint"/>
+                        <mxPoint x="391.5" y="920" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

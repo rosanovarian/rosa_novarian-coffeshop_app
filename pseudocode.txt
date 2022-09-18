@@ -1,0 +1,34 @@
+PRINT "=== MENU ==="
+PRINT "1. Kopi Hitam Blusukan"
+PRINT "2. Kopi Susu Arang"
+PRINT "3. Kopi Susu Arum Manis"
+
+WRITE chooseMenu
+STORE chooseMenu with number 1
+
+ADD "cart" with "coffeeMenu"[1]
+
+CALL checkout(cart)
+
+WRITE "address" with string
+STORE "address" with "SURABAYA"
+
+WRITE "isPaid" with boolean False
+WRITE "isConfirm" with boolean False
+WRITE orderStatus with string ""
+
+IF "isPaid" equal to True THEN
+    STORE "isConfirm" with True
+    STORE orderStatus with "Cooking", cart
+
+    WHILE orderStatus equal to "Cooking" DO
+        IF orderStatus equal to "Cooking" THEN
+            STORE orderStatus with "Cooked"
+
+    STORE orderStatus with "Ongoing with driver"
+
+    WHILE orderStatus equal to "Ongoing with driver" DO
+        IF orderStatus equal to "Ongoing with driver" THEN
+            STORE orderStatus with "Delivered"
+
+    PRINT orderStatus
